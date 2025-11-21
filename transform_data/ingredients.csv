@@ -1,0 +1,215 @@
+recipe_id,name,quantity,unit,is_optional
+0wN9f7Aj35u9RaBtvSyt,Ghee,131,vati (bowl),False
+0wN9f7Aj35u9RaBtvSyt,Bombay Duck (Fish),25,tsp,False
+0wN9f7Aj35u9RaBtvSyt,Jaggery (Gul),20,cups,True
+0wN9f7Aj35u9RaBtvSyt,Goda Masala,199,vati (bowl),False
+0wN9f7Aj35u9RaBtvSyt,Sabudana,107,vati (bowl),False
+0wN9f7Aj35u9RaBtvSyt,Curry Leaves,62,tbsp,False
+0wN9f7Aj35u9RaBtvSyt,Oil,196,tbsp,True
+0wN9f7Aj35u9RaBtvSyt,Rice Flour,200,tsp,False
+4bdyFBx5qJRHkFXXoCBd,Ginger,111,tsp,False
+4bdyFBx5qJRHkFXXoCBd,Jaggery (Gul),187,vati (bowl),False
+4bdyFBx5qJRHkFXXoCBd,Mustard Seeds,39,cups,False
+4bdyFBx5qJRHkFXXoCBd,Green Chilies,231,pieces,False
+4bdyFBx5qJRHkFXXoCBd,Tamarind,217,tbsp,False
+4bdyFBx5qJRHkFXXoCBd,Chana Dal,68,grams,False
+4bdyFBx5qJRHkFXXoCBd,Poha (Flattened Rice),86,vati (bowl),True
+4bdyFBx5qJRHkFXXoCBd,Goda Masala,177,cups,False
+4bdyFBx5qJRHkFXXoCBd,Matki (Moth Beans),104,tsp,False
+4bdyFBx5qJRHkFXXoCBd,Rice Flour,5,tsp,True
+4bdyFBx5qJRHkFXXoCBd,Grated Coconut,11,tbsp,False
+4bdyFBx5qJRHkFXXoCBd,Besan (Gram Flour),55,tbsp,False
+5fh6lZjyhc64yEto3feT,Coriander Leaves,68,grams,True
+5fh6lZjyhc64yEto3feT,Green Chilies,101,vati (bowl),True
+5fh6lZjyhc64yEto3feT,Matki (Moth Beans),125,grams,False
+5fh6lZjyhc64yEto3feT,Garlic,106,cups,True
+5fh6lZjyhc64yEto3feT,Sabudana,171,vati (bowl),False
+5fh6lZjyhc64yEto3feT,Peanuts,89,tbsp,True
+5fh6lZjyhc64yEto3feT,Red Chili Powder,20,pieces,True
+5fh6lZjyhc64yEto3feT,Poha (Flattened Rice),128,pieces,False
+5fh6lZjyhc64yEto3feT,Tamarind,222,ml,False
+5fh6lZjyhc64yEto3feT,Asafoetida (Hing),147,ml,False
+5fh6lZjyhc64yEto3feT,Jaggery (Gul),55,pieces,False
+AG5SNwy0XlIPy2pskV6A,Kokum,178,vati (bowl),True
+AG5SNwy0XlIPy2pskV6A,Red Chili Powder,223,tbsp,True
+AG5SNwy0XlIPy2pskV6A,Besan (Gram Flour),63,vati (bowl),False
+AG5SNwy0XlIPy2pskV6A,Tur Dal,90,tsp,False
+AG5SNwy0XlIPy2pskV6A,Brinjal (Eggplant),140,pieces,False
+AG5SNwy0XlIPy2pskV6A,Oil,149,tbsp,True
+AG5SNwy0XlIPy2pskV6A,Asafoetida (Hing),61,tbsp,False
+AG5SNwy0XlIPy2pskV6A,Matki (Moth Beans),175,cups,True
+AG5SNwy0XlIPy2pskV6A,Jaggery (Gul),12,tsp,True
+AG5SNwy0XlIPy2pskV6A,Coriander Leaves,148,grams,True
+ElkULpf1e87utdDBBCh1,Potatoes,174,pieces,False
+ElkULpf1e87utdDBBCh1,Besan (Gram Flour),35,ml,True
+ElkULpf1e87utdDBBCh1,Kokum,184,ml,False
+ElkULpf1e87utdDBBCh1,Peanuts,149,ml,False
+ElkULpf1e87utdDBBCh1,Ginger,83,ml,True
+ElkULpf1e87utdDBBCh1,Rice Flour,140,pieces,True
+GoZpJ0oPQ8kicn1YLVbZ,Ghee,56,vati (bowl),True
+GoZpJ0oPQ8kicn1YLVbZ,Ginger,238,cups,False
+GoZpJ0oPQ8kicn1YLVbZ,Oil,69,cups,False
+GoZpJ0oPQ8kicn1YLVbZ,Curry Leaves,211,tbsp,False
+GoZpJ0oPQ8kicn1YLVbZ,Goda Masala,21,vati (bowl),False
+GoZpJ0oPQ8kicn1YLVbZ,Coriander Leaves,173,ml,True
+GoZpJ0oPQ8kicn1YLVbZ,Mustard Seeds,78,ml,True
+GoZpJ0oPQ8kicn1YLVbZ,Green Chilies,8,tbsp,True
+GoZpJ0oPQ8kicn1YLVbZ,Garlic,28,ml,False
+GoZpJ0oPQ8kicn1YLVbZ,Rice Flour,57,pieces,True
+GoZpJ0oPQ8kicn1YLVbZ,Asafoetida (Hing),137,cups,True
+GoZpJ0oPQ8kicn1YLVbZ,Kokum,43,cups,True
+LVmh3o7AD0OJ6viLyXy7,Green Chilies,150,pieces,True
+LVmh3o7AD0OJ6viLyXy7,Brinjal (Eggplant),50,ml,False
+LVmh3o7AD0OJ6viLyXy7,Matki (Moth Beans),93,tsp,True
+LVmh3o7AD0OJ6viLyXy7,Rice Flour,249,tsp,True
+LVmh3o7AD0OJ6viLyXy7,Ginger,111,tbsp,True
+LVmh3o7AD0OJ6viLyXy7,Ghee,164,tsp,True
+LVmh3o7AD0OJ6viLyXy7,Asafoetida (Hing),21,grams,False
+LVmh3o7AD0OJ6viLyXy7,Turmeric,35,vati (bowl),True
+LVmh3o7AD0OJ6viLyXy7,Chana Dal,209,tbsp,False
+PR60aK9qVaQtGaPTCJmt,Turmeric,77,grams,True
+PR60aK9qVaQtGaPTCJmt,Kokum,110,tsp,True
+PR60aK9qVaQtGaPTCJmt,Asafoetida (Hing),150,tsp,True
+PR60aK9qVaQtGaPTCJmt,Ginger,98,cups,False
+PR60aK9qVaQtGaPTCJmt,Green Chilies,52,pieces,True
+PR60aK9qVaQtGaPTCJmt,Chana Dal,65,tsp,True
+PR60aK9qVaQtGaPTCJmt,Curry Leaves,191,cups,False
+PR60aK9qVaQtGaPTCJmt,Tur Dal,133,tsp,False
+PR60aK9qVaQtGaPTCJmt,Jaggery (Gul),167,cups,True
+PR60aK9qVaQtGaPTCJmt,Peanuts,89,tbsp,False
+PR60aK9qVaQtGaPTCJmt,Oil,145,ml,False
+VoflyIYaLUSPiRwmITZZ,Peanuts,217,tbsp,True
+VoflyIYaLUSPiRwmITZZ,Brinjal (Eggplant),211,ml,False
+VoflyIYaLUSPiRwmITZZ,Garlic,219,ml,False
+VoflyIYaLUSPiRwmITZZ,Kokum,126,cups,False
+VoflyIYaLUSPiRwmITZZ,Rice Flour,133,tbsp,True
+VoflyIYaLUSPiRwmITZZ,Coriander Leaves,212,pieces,False
+VoflyIYaLUSPiRwmITZZ,Green Chilies,31,ml,True
+VoflyIYaLUSPiRwmITZZ,Ghee,132,cups,False
+VoflyIYaLUSPiRwmITZZ,Besan (Gram Flour),92,vati (bowl),True
+VoflyIYaLUSPiRwmITZZ,Chana Dal,83,tsp,True
+VoflyIYaLUSPiRwmITZZ,Oil,250,ml,False
+Zp0d5EGyhY8q0AVYOPw7,Idli Rice / Parboiled Rice,3,cups,False
+Zp0d5EGyhY8q0AVYOPw7,Urad Dal (Whole White Lentils),1,cup,False
+Zp0d5EGyhY8q0AVYOPw7,Fenugreek Seeds (Methi),1,tsp,False
+Zp0d5EGyhY8q0AVYOPw7,Salt,2,tsp,False
+Zp0d5EGyhY8q0AVYOPw7,Water,1,liter,False
+Zp0d5EGyhY8q0AVYOPw7,Oil or Ghee,100,ml,False
+Zp0d5EGyhY8q0AVYOPw7,Potato Masala (for Masala Dosa),1,bowl,True
+aroReC0jFLONYe2tTwol,Goda Masala,132,ml,False
+aroReC0jFLONYe2tTwol,Brinjal (Eggplant),164,cups,True
+aroReC0jFLONYe2tTwol,Potatoes,177,cups,False
+aroReC0jFLONYe2tTwol,Mustard Seeds,113,vati (bowl),True
+aroReC0jFLONYe2tTwol,Asafoetida (Hing),99,pieces,False
+aroReC0jFLONYe2tTwol,Poha (Flattened Rice),65,cups,False
+aroReC0jFLONYe2tTwol,Sabudana,188,ml,False
+aroReC0jFLONYe2tTwol,Curry Leaves,95,tbsp,False
+aroReC0jFLONYe2tTwol,Garlic,54,tsp,True
+aroReC0jFLONYe2tTwol,Grated Coconut,182,vati (bowl),False
+aroReC0jFLONYe2tTwol,Turmeric,50,tbsp,True
+aroReC0jFLONYe2tTwol,Kokum,198,pieces,True
+bDNmDH9eWFMMEKSN7xjm,Potatoes,173,vati (bowl),True
+bDNmDH9eWFMMEKSN7xjm,Mustard Seeds,202,cups,True
+bDNmDH9eWFMMEKSN7xjm,Rice Flour,225,grams,True
+bDNmDH9eWFMMEKSN7xjm,Ghee,33,tsp,True
+bDNmDH9eWFMMEKSN7xjm,Chana Dal,84,tbsp,True
+bDNmDH9eWFMMEKSN7xjm,Brinjal (Eggplant),52,vati (bowl),False
+bDNmDH9eWFMMEKSN7xjm,Green Chilies,153,vati (bowl),False
+bDNmDH9eWFMMEKSN7xjm,Ginger,135,tsp,False
+bDNmDH9eWFMMEKSN7xjm,Garlic,100,ml,True
+bDNmDH9eWFMMEKSN7xjm,Oil,238,pieces,False
+bDNmDH9eWFMMEKSN7xjm,Kokum,14,cups,False
+bZkFBpZeOjehS3oE4mkV,Asafoetida (Hing),117,ml,True
+bZkFBpZeOjehS3oE4mkV,Bombay Duck (Fish),129,grams,False
+bZkFBpZeOjehS3oE4mkV,Rice Flour,133,vati (bowl),False
+bZkFBpZeOjehS3oE4mkV,Potatoes,188,grams,False
+bZkFBpZeOjehS3oE4mkV,Jaggery (Gul),149,tsp,False
+bZkFBpZeOjehS3oE4mkV,Chana Dal,91,tbsp,False
+bZkFBpZeOjehS3oE4mkV,Sabudana,131,tsp,True
+bZkFBpZeOjehS3oE4mkV,Oil,100,cups,False
+bZkFBpZeOjehS3oE4mkV,Ghee,242,grams,False
+bZkFBpZeOjehS3oE4mkV,Garlic,26,cups,False
+fKFhRLiD7fbesBzQDZeu,Ghee,48,pieces,True
+fKFhRLiD7fbesBzQDZeu,Curry Leaves,4,cups,False
+fKFhRLiD7fbesBzQDZeu,Goda Masala,99,ml,False
+fKFhRLiD7fbesBzQDZeu,Tur Dal,84,pieces,False
+fKFhRLiD7fbesBzQDZeu,Brinjal (Eggplant),133,ml,False
+fKFhRLiD7fbesBzQDZeu,Chana Dal,64,vati (bowl),True
+fKFhRLiD7fbesBzQDZeu,Peanuts,62,cups,True
+fKFhRLiD7fbesBzQDZeu,Coriander Leaves,203,tbsp,False
+fKFhRLiD7fbesBzQDZeu,Grated Coconut,6,grams,True
+fKFhRLiD7fbesBzQDZeu,Bombay Duck (Fish),180,cups,False
+fKFhRLiD7fbesBzQDZeu,Sabudana,3,grams,False
+l8UGZEWw0ijk1d5zoNfM,Bombay Duck (Fish),9,vati (bowl),False
+l8UGZEWw0ijk1d5zoNfM,Mustard Seeds,38,ml,True
+l8UGZEWw0ijk1d5zoNfM,Sabudana,143,tbsp,True
+l8UGZEWw0ijk1d5zoNfM,Green Chilies,222,ml,True
+l8UGZEWw0ijk1d5zoNfM,Tur Dal,95,grams,False
+l8UGZEWw0ijk1d5zoNfM,Peanuts,10,tsp,True
+l8UGZEWw0ijk1d5zoNfM,Goda Masala,217,tbsp,False
+l8UGZEWw0ijk1d5zoNfM,Ghee,48,tbsp,True
+l8UGZEWw0ijk1d5zoNfM,Poha (Flattened Rice),20,ml,True
+l8UGZEWw0ijk1d5zoNfM,Potatoes,207,tsp,False
+l8UGZEWw0ijk1d5zoNfM,Chana Dal,209,ml,True
+nYGzwEK41N9WdObvDfMX,Oil,250,tbsp,False
+nYGzwEK41N9WdObvDfMX,Ginger,245,tsp,True
+nYGzwEK41N9WdObvDfMX,Poha (Flattened Rice),53,grams,True
+nYGzwEK41N9WdObvDfMX,Ghee,122,vati (bowl),False
+nYGzwEK41N9WdObvDfMX,Mustard Seeds,224,ml,False
+nYGzwEK41N9WdObvDfMX,Chana Dal,176,pieces,False
+nYGzwEK41N9WdObvDfMX,Brinjal (Eggplant),162,pieces,False
+nYGzwEK41N9WdObvDfMX,Kokum,3,grams,True
+nYGzwEK41N9WdObvDfMX,Tur Dal,230,grams,True
+sfpMz9c4zWzm94NZDFKn,Matki (Moth Beans),241,ml,True
+sfpMz9c4zWzm94NZDFKn,Curry Leaves,157,cups,True
+sfpMz9c4zWzm94NZDFKn,Tur Dal,148,vati (bowl),True
+sfpMz9c4zWzm94NZDFKn,Besan (Gram Flour),47,pieces,True
+sfpMz9c4zWzm94NZDFKn,Tamarind,77,cups,False
+sfpMz9c4zWzm94NZDFKn,Green Chilies,195,cups,False
+sfpMz9c4zWzm94NZDFKn,Asafoetida (Hing),113,tbsp,True
+sfpMz9c4zWzm94NZDFKn,Poha (Flattened Rice),133,ml,True
+sfpMz9c4zWzm94NZDFKn,Jaggery (Gul),74,pieces,True
+sfpMz9c4zWzm94NZDFKn,Bombay Duck (Fish),196,vati (bowl),False
+sfpMz9c4zWzm94NZDFKn,Grated Coconut,17,grams,True
+sfpMz9c4zWzm94NZDFKn,Goda Masala,140,vati (bowl),True
+v3hfrxZLqo0Q0HqcnG5T,Jaggery (Gul),135,cups,False
+v3hfrxZLqo0Q0HqcnG5T,Goda Masala,66,pieces,False
+v3hfrxZLqo0Q0HqcnG5T,Poha (Flattened Rice),43,ml,True
+v3hfrxZLqo0Q0HqcnG5T,Mustard Seeds,45,tbsp,False
+v3hfrxZLqo0Q0HqcnG5T,Brinjal (Eggplant),98,tbsp,False
+v3hfrxZLqo0Q0HqcnG5T,Potatoes,227,tbsp,False
+v3hfrxZLqo0Q0HqcnG5T,Besan (Gram Flour),166,vati (bowl),False
+v3hfrxZLqo0Q0HqcnG5T,Garlic,60,tsp,False
+v3hfrxZLqo0Q0HqcnG5T,Rice Flour,240,ml,True
+v3hfrxZLqo0Q0HqcnG5T,Peanuts,3,tsp,False
+v3hfrxZLqo0Q0HqcnG5T,Bombay Duck (Fish),140,tsp,False
+v3hfrxZLqo0Q0HqcnG5T,Tamarind,202,cups,False
+vVRlXBePEzWTKJt0ORYz,Goda Masala,220,pieces,True
+vVRlXBePEzWTKJt0ORYz,Garlic,183,vati (bowl),False
+vVRlXBePEzWTKJt0ORYz,Tur Dal,156,cups,True
+vVRlXBePEzWTKJt0ORYz,Turmeric,78,grams,False
+vVRlXBePEzWTKJt0ORYz,Brinjal (Eggplant),226,vati (bowl),True
+vVRlXBePEzWTKJt0ORYz,Grated Coconut,15,vati (bowl),True
+vVRlXBePEzWTKJt0ORYz,Sabudana,103,ml,True
+vVRlXBePEzWTKJt0ORYz,Matki (Moth Beans),48,ml,True
+vVRlXBePEzWTKJt0ORYz,Kokum,27,vati (bowl),False
+vVRlXBePEzWTKJt0ORYz,Chana Dal,45,vati (bowl),False
+vVRlXBePEzWTKJt0ORYz,Jaggery (Gul),85,tbsp,False
+vVRlXBePEzWTKJt0ORYz,Potatoes,139,tbsp,False
+vnBYPx7Fw7fkT5Gwnt3I,Matki (Moth Beans),192,vati (bowl),False
+vnBYPx7Fw7fkT5Gwnt3I,Turmeric,184,ml,False
+vnBYPx7Fw7fkT5Gwnt3I,Goda Masala,223,vati (bowl),False
+vnBYPx7Fw7fkT5Gwnt3I,Chana Dal,235,pieces,True
+vnBYPx7Fw7fkT5Gwnt3I,Poha (Flattened Rice),42,pieces,True
+vnBYPx7Fw7fkT5Gwnt3I,Ghee,244,ml,False
+vnBYPx7Fw7fkT5Gwnt3I,Mustard Seeds,98,ml,True
+vnBYPx7Fw7fkT5Gwnt3I,Besan (Gram Flour),40,grams,True
+vnBYPx7Fw7fkT5Gwnt3I,Brinjal (Eggplant),12,tbsp,True
+vnBYPx7Fw7fkT5Gwnt3I,Curry Leaves,125,tsp,False
+x549tnL9KHEIBUMQbuBv,Matki (Moth Beans),30,ml,False
+x549tnL9KHEIBUMQbuBv,Kokum,148,pieces,False
+x549tnL9KHEIBUMQbuBv,Jaggery (Gul),69,tsp,False
+x549tnL9KHEIBUMQbuBv,Besan (Gram Flour),216,cups,True
+x549tnL9KHEIBUMQbuBv,Coriander Leaves,209,pieces,True
+x549tnL9KHEIBUMQbuBv,Bombay Duck (Fish),206,ml,False
+x549tnL9KHEIBUMQbuBv,Ginger,21,vati (bowl),True
