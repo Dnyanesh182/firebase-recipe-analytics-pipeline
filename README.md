@@ -26,7 +26,7 @@ A complete data engineering pipeline built on Firebase Firestore for recipe data
 ### 1.1 Entity Relationship Diagram
 
 ```
-ERD Diagram.png
+![Uploading ERD Diagram.png…]()
 ```
 
 ### 1.2 Why Subcollections?
