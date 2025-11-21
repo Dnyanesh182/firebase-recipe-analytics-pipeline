@@ -1,0 +1,202 @@
+{
+  "most_common_ingredients": {
+    "Chana Dal": 11,
+    "Ghee": 10,
+    "Kokum": 10,
+    "Jaggery (Gul)": 10,
+    "Goda Masala": 10,
+    "Brinjal (Eggplant)": 10,
+    "Green Chilies": 9,
+    "Rice Flour": 9,
+    "Besan (Gram Flour)": 8,
+    "Mustard Seeds": 8,
+    "Asafoetida (Hing)": 8,
+    "Matki (Moth Beans)": 8,
+    "Poha (Flattened Rice)": 8,
+    "Oil": 8,
+    "Ginger": 8,
+    "Garlic": 8,
+    "Bombay Duck (Fish)": 7,
+    "Curry Leaves": 7,
+    "Tur Dal": 7,
+    "Peanuts": 7
+  },
+  "avg_prep_time": 28.523809523809526,
+  "avg_cook_time": 37.38095238095238,
+  "difficulty_distribution": {
+    "Easy": 10,
+    "Hard": 6,
+    "Medium": 5
+  },
+  "most_interacted": {
+    "VoflyIYaLUSPiRwmITZZ": 4,
+    "l8UGZEWw0ijk1d5zoNfM": 4,
+    "sfpMz9c4zWzm94NZDFKn": 4,
+    "aroReC0jFLONYe2tTwol": 4,
+    "5fh6lZjyhc64yEto3feT": 3,
+    "GoZpJ0oPQ8kicn1YLVbZ": 3,
+    "vVRlXBePEzWTKJt0ORYz": 3,
+    "AG5SNwy0XlIPy2pskV6A": 3,
+    "0wN9f7Aj35u9RaBtvSyt": 2,
+    "ElkULpf1e87utdDBBCh1": 2,
+    "4bdyFBx5qJRHkFXXoCBd": 2,
+    "bZkFBpZeOjehS3oE4mkV": 2,
+    "PR60aK9qVaQtGaPTCJmt": 2,
+    "bDNmDH9eWFMMEKSN7xjm": 2,
+    "x549tnL9KHEIBUMQbuBv": 2,
+    "Zp0d5EGyhY8q0AVYOPw7": 1,
+    "LVmh3o7AD0OJ6viLyXy7": 1,
+    "nYGzwEK41N9WdObvDfMX": 1,
+    "fKFhRLiD7fbesBzQDZeu": 1,
+    "v3hfrxZLqo0Q0HqcnG5T": 1
+  },
+  "prep_vs_rating_corr": -0.179926037318182,
+  "ingredients_high_rating": {
+    "Idli Rice / Parboiled Rice": 5.0,
+    "Fenugreek Seeds (Methi)": 5.0,
+    "Salt": 5.0,
+    "Water": 5.0,
+    "Potato Masala (for Masala Dosa)": 5.0,
+    "Urad Dal (Whole White Lentils)": 5.0,
+    "Oil or Ghee": 5.0,
+    "Chana Dal": 4.130434782608695,
+    "Sabudana": 4.052631578947368,
+    "Ghee": 4.0476190476190474,
+    "Bombay Duck (Fish)": 4.0,
+    "Poha (Flattened Rice)": 4.0,
+    "Mustard Seeds": 4.0,
+    "Ginger": 3.933333333333333,
+    "Goda Masala": 3.92,
+    "Turmeric": 3.909090909090909,
+    "Potatoes": 3.888888888888889,
+    "Tur Dal": 3.888888888888889,
+    "Peanuts": 3.8823529411764706,
+    "Green Chilies": 3.88
+  },
+  "top_rated_recipes": [
+    {
+      "recipe_id": "Zp0d5EGyhY8q0AVYOPw7",
+      "title": "Crispy Dosa",
+      "rating": 5.0
+    },
+    {
+      "recipe_id": "nYGzwEK41N9WdObvDfMX",
+      "title": "Sheera",
+      "rating": 5.0
+    },
+    {
+      "recipe_id": "vnBYPx7Fw7fkT5Gwnt3I",
+      "title": "Kothimbir Vadi",
+      "rating": 5.0
+    },
+    {
+      "recipe_id": "bZkFBpZeOjehS3oE4mkV",
+      "title": "Modak",
+      "rating": 4.5
+    },
+    {
+      "recipe_id": "4bdyFBx5qJRHkFXXoCBd",
+      "title": "Masale Bhaat",
+      "rating": 4.5
+    },
+    {
+      "recipe_id": "l8UGZEWw0ijk1d5zoNfM",
+      "title": "Shrikhand",
+      "rating": 4.5
+    },
+    {
+      "recipe_id": "vVRlXBePEzWTKJt0ORYz",
+      "title": "Pithla Bhakri",
+      "rating": 4.0
+    },
+    {
+      "recipe_id": "5fh6lZjyhc64yEto3feT",
+      "title": "Sabudana Khichdi",
+      "rating": 4.0
+    },
+    {
+      "recipe_id": "0wN9f7Aj35u9RaBtvSyt",
+      "title": "Puran Poli",
+      "rating": 4.0
+    },
+    {
+      "recipe_id": "x549tnL9KHEIBUMQbuBv",
+      "title": "Batata Vada",
+      "rating": 4.0
+    }
+  ],
+  "steps_count_distribution": {
+    "count": 21.0,
+    "mean": 6.333333333333333,
+    "std": 2.3309511649396115,
+    "min": 4.0,
+    "25%": 5.0,
+    "50%": 5.0,
+    "75%": 8.0,
+    "max": 13.0
+  },
+  "recipes_most_comments": {
+    "VoflyIYaLUSPiRwmITZZ": 4,
+    "l8UGZEWw0ijk1d5zoNfM": 4,
+    "sfpMz9c4zWzm94NZDFKn": 4,
+    "aroReC0jFLONYe2tTwol": 4,
+    "5fh6lZjyhc64yEto3feT": 3,
+    "GoZpJ0oPQ8kicn1YLVbZ": 3,
+    "vVRlXBePEzWTKJt0ORYz": 3,
+    "AG5SNwy0XlIPy2pskV6A": 3,
+    "0wN9f7Aj35u9RaBtvSyt": 2,
+    "ElkULpf1e87utdDBBCh1": 2
+  },
+  "longest_total_time": [
+    {
+      "recipe_id": "Zp0d5EGyhY8q0AVYOPw7",
+      "title": "Crispy Dosa",
+      "total_time_min": 540
+    },
+    {
+      "recipe_id": "ElkULpf1e87utdDBBCh1",
+      "title": "Kothimbir Vadi",
+      "total_time_min": 87
+    },
+    {
+      "recipe_id": "vVRlXBePEzWTKJt0ORYz",
+      "title": "Pithla Bhakri",
+      "total_time_min": 85
+    },
+    {
+      "recipe_id": "LVmh3o7AD0OJ6viLyXy7",
+      "title": "Vada Pav",
+      "total_time_min": 83
+    },
+    {
+      "recipe_id": "l8UGZEWw0ijk1d5zoNfM",
+      "title": "Shrikhand",
+      "total_time_min": 80
+    },
+    {
+      "recipe_id": "bDNmDH9eWFMMEKSN7xjm",
+      "title": "Sheera",
+      "total_time_min": 79
+    },
+    {
+      "recipe_id": "0wN9f7Aj35u9RaBtvSyt",
+      "title": "Puran Poli",
+      "total_time_min": 77
+    },
+    {
+      "recipe_id": "x549tnL9KHEIBUMQbuBv",
+      "title": "Batata Vada",
+      "total_time_min": 76
+    },
+    {
+      "recipe_id": "nYGzwEK41N9WdObvDfMX",
+      "title": "Sheera",
+      "total_time_min": 74
+    },
+    {
+      "recipe_id": "5fh6lZjyhc64yEto3feT",
+      "title": "Sabudana Khichdi",
+      "total_time_min": 66
+    }
+  ]
+}

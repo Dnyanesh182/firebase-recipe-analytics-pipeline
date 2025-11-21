@@ -63,8 +63,8 @@ Firebase_Setup/serviceAccountKey.json
 
 # Analytics / generated artifacts
 # Ignore generated analytics summaries, charts, or large data dumps.
-analytics/analytics_summary.json
-analytics/charts/
+# analytics/analytics_summary.json
+# analytics/charts/
 
 # Raw / transformed datasets
 # NOTE: If you track source CSVs in git, remove or comment out the next line.
