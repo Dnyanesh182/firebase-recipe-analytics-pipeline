@@ -299,6 +299,16 @@ recipes.csv                          ingredients.csv
 | 11 | **Longest Recipes** | Top 10 by total time | `analytics_summary.json` |
 
 ### 6.2 Generated Visualizations
+<img width="350" alt="difficulty_donut_chart" src="https://github.com/user-attachments/assets/e902b7fd-b27f-4c5d-ae28-a53ae87e739d" />
+
+<img width="450" alt="top_ingredients_bar_chart" src="https://github.com/user-attachments/assets/f1b151b2-8130-47f9-9751-05a2d018af97" />
+
+<img width="450" alt="prep_vs_rating_scatter_plot" src="https://github.com/user-attachments/assets/d625182e-a58a-4a24-a626-40f80a6dc108" />
+
+<img width="450" alt="cook_time_histogram" src="https://github.com/user-attachments/assets/ac0c77cc-1ee9-4b69-b749-0fa067e35890" />
+
+
+
 
 | Chart | Type | Description |
 |-------|------|-------------|
